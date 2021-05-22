@@ -1,4 +1,4 @@
-# flutternavigation
+# Flutter navigation with named route
 
 A new Flutter project.
 
